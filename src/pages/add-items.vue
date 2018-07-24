@@ -1,7 +1,6 @@
 <template>
-  <q-page padding>
-    <!-- <router-link to="/test_jmi"><q-btn>Home</q-btn></router-link> -->
-    <p align="center">Welcome to Add Items page</p>
+  <q-page padding align="center">
+    <p>Welcome to Add Items page</p>
   </q-page>
 </template>
 

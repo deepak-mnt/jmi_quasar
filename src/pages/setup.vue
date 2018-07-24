@@ -1,6 +1,6 @@
 <template>
-  <q-page padding>
-    <p align="center">Welcome to Setup page</p>
+  <q-page padding align="center">
+    <p>Welcome to Setup page</p>
   </q-page>
 </template>
 

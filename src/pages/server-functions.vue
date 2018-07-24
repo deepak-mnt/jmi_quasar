@@ -1,6 +1,6 @@
 <template>
-  <q-page padding>
-    <p align="center">Welcome to Server Functions page</p>
+  <q-page padding align="center">
+    <p>Welcome to Server Functions page</p>
   </q-page>
 </template>
 

@@ -1,5 +1,5 @@
 <template>
-  <q-page padding>
+  <q-page padding align="center">
     <p> Showing the location and direction will come here </p>
   </q-page>
 </template>

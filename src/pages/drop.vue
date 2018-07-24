@@ -1,13 +1,12 @@
 <template>
-  <q-page padding>
-    <!-- <router-link to="/test_jmi"><q-btn>Home</q-btn></router-link> -->
+  <q-page padding align="center">
     <q-card >
       <q-card-title >
         <h4>Drop Item</h4>
         <p>Please scan or enter item ID Code</p>
       </q-card-title>
       <q-card-main >
-        <q-input v-model="newTemp" inverted style="border-style: solid; border-color:black" /><br>
+        <q-input v-model="newTemp" /><br>
         <q-btn>Scan</q-btn><br>
         <div id="find" style="display:none">
           <img src="~/assets/img/last_conference.png" alt="Last Conference" width="100%">
