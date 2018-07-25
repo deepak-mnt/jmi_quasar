@@ -31,7 +31,7 @@ export default {
   methods: {
     sign_in () {
       if (this.email_id == "deepak@mnt.com" && this.pwd == 123456) {
-        window.location="/test_jmi";
+        this.$router.push('/test_jmi');
       }
       else {
         this.$q.notify('Email ID or password is not correct.')

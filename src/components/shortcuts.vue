@@ -5,6 +5,13 @@
         inset-delimiter
       >
         <!-- <q-list-header>JMI App</q-list-header> -->
+        <div style="margin-left:10%">
+          <br>
+          <img src="~/src/assets/img/defaultphoto.jpg" 
+          style="border-radius: 50%;" width="25%" height="25%">
+          <br><br><p style="font-size:95%;">Deepak kumar</p>
+        </div>  
+        <hr>
         <q-item>
           <q-item-side icon="home" />
           <router-link to="/test_jmi" style="text-decoration:none;color:black">Home</router-link>

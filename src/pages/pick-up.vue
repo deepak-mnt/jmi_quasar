@@ -10,8 +10,8 @@
         <q-btn>Scan</q-btn><br>
         <div id="find" style="display:none">
           <img src="~/assets/img/last_conference.png" alt="Last Conference" width="100%">
-          <p>Is this the correct ITEM?</p>
-          <q-btn>Yes</q-btn>
+          <p>Use "OK" to acknowledge that you are now in possession of this item</p>
+          <q-btn>OK</q-btn>
           <q-btn>No</q-btn><br><br>
         </div>
       </q-card-main>

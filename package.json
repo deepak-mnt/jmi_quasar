@@ -2,7 +2,7 @@
   "name": "test-quasar",
   "version": "1.0.0",
   "description": "Quasar testing",
-  "productName": "Test Quasar",
+  "productName": "JMI App",
   "cordovaId": "org.cordova.quasar.app",
   "author": "deepak-mnt <deepak@mntechnique.com>",
   "private": true,
